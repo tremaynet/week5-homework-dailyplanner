@@ -7,7 +7,7 @@ Create a simple calendar application that allows the user to save events for eac
 
 
 Scheduler Screen displaying correct date using moments 
-![](assets/img/scheduler.jpg)
+![](assets/scheduler.jpg)
 
 
 Color Coding for past, future, and present are identified in the css file. 
